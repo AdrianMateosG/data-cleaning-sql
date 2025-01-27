@@ -2,8 +2,8 @@
 
 ## Author
 
-Adrian Mateos Garza
-Email: mateos.garza.adrian@gmail.com
+- Adrian Mateos Garza
+- Email: mateos.garza.adrian@gmail.com
 
 ## Overview
 
